@@ -38,7 +38,6 @@ git clone <github_url>
 ```
 Note: Clone/ Downlaod github  repo in your system
 
-
 Add your changes made in file to git stagging are
 ```
 git add file_name
