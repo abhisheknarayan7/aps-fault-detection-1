@@ -44,7 +44,6 @@ git add file_name
 ```
 Note: You can given file_name to add specific file or use "." to add everything to staging are
 
-
 Create commits
 ```
 git commit -m "message"
